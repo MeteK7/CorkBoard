@@ -1,0 +1,387 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\CorkBoardUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardDAL\\CorkBoardDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardDAL\\CorkBoardDAL.csproj",
+        "projectName": "CorkBoardDAL",
+        "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardDAL\\CorkBoardDAL.csproj",
+        "packagesPath": "C:\\Users\\MeteK\\.nuget\\packages\\",
+        "outputPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MeteK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardService\\CorkBoardService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardService\\CorkBoardService.csproj",
+        "projectName": "CorkBoardService",
+        "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardService\\CorkBoardService.csproj",
+        "packagesPath": "C:\\Users\\MeteK\\.nuget\\packages\\",
+        "outputPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MeteK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardDAL\\CorkBoardDAL.csproj": {
+                "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardDAL\\CorkBoardDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\CorkBoardUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\CorkBoardUI.csproj",
+        "projectName": "CorkBoardUI",
+        "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\CorkBoardUI.csproj",
+        "packagesPath": "C:\\Users\\MeteK\\.nuget\\packages\\",
+        "outputPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MeteK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardDAL\\CorkBoardDAL.csproj": {
+                "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardDAL\\CorkBoardDAL.csproj"
+              },
+              "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardService\\CorkBoardService.csproj": {
+                "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardService\\CorkBoardService.csproj"
+              },
+              "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\CorkBoardDAL.csproj": {
+                "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\CorkBoardDAL.csproj"
+              },
+              "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarService\\CorkBoardService.csproj": {
+                "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarService\\CorkBoardService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "PagedList.Core.Mvc": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "jQuery.Validation": {
+              "target": "Package",
+              "version": "[1.19.3, )"
+            },
+            "jQuery.Validation.Unobtrusive": {
+              "target": "Package",
+              "version": "[2.0.20710, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\CorkBoardDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\CorkBoardDAL.csproj",
+        "projectName": "CorkBoardDAL",
+        "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\CorkBoardDAL.csproj",
+        "packagesPath": "C:\\Users\\MeteK\\.nuget\\packages\\",
+        "outputPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MeteK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarService\\CorkBoardService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarService\\CorkBoardService.csproj",
+        "projectName": "CorkBoardService",
+        "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarService\\CorkBoardService.csproj",
+        "packagesPath": "C:\\Users\\MeteK\\.nuget\\packages\\",
+        "outputPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MeteK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\CorkBoardDAL.csproj": {
+                "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\CorkBoardDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
