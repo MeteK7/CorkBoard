@@ -14,20 +14,20 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 #line 1 "C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\Views\_ViewImports.cshtml"
-using TomarUI;
+using CorkBoardUI;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 2 "C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\Views\_ViewImports.cshtml"
-using TomarUI.ViewModels;
+using CorkBoardUI.ViewModels;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"45cab8bd216220c187124c238fa0cd05aa20fe63", @"/Views/Shared/Components/AdminTopNav/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"00aafc5a72db4d81d654fa4be0fef412adc6c92c", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"977f12720aff1e491a5cec67a59b8bba8f711f02", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Components_AdminTopNav_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("navbar-brand"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -68,7 +68,7 @@ using TomarUI.ViewModels;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<nav class=\"sb-topnav navbar navbar-expand navbar-dark bg-dark\">\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "45cab8bd216220c187124c238fa0cd05aa20fe637301", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "45cab8bd216220c187124c238fa0cd05aa20fe637309", async() => {
                 WriteLiteral("CorkBoard - Admin (Alpha)");
             }
             );
@@ -87,7 +87,7 @@ using TomarUI.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n    <button class=\"btn btn-link btn-sm order-1 order-lg-0\" id=\"sidebarToggle\" href=\"#\"><i class=\"fas fa-bars\"></i></button>\r\n    <!-- Navbar Search-->\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "45cab8bd216220c187124c238fa0cd05aa20fe638932", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "45cab8bd216220c187124c238fa0cd05aa20fe638940", async() => {
                 WriteLiteral(@"
         <div class=""input-group"">
             <input class=""form-control"" type=""text"" placeholder=""Search for..."" aria-label=""Search"" aria-describedby=""basic-addon2"" />
@@ -117,7 +117,7 @@ using TomarUI.ViewModels;
             <a class=""nav-link dropdown-toggle"" id=""userDropdown"" href=""#"" role=""button"" data-toggle=""dropdown"" aria-haspopup=""true"" aria-expanded=""false""><i class=""fas fa-user fa-fw""></i></a>
             <div class=""dropdown-menu dropdown-menu-right"" aria-labelledby=""userDropdown"">
                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "45cab8bd216220c187124c238fa0cd05aa20fe6311054", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "45cab8bd216220c187124c238fa0cd05aa20fe6311062", async() => {
                 WriteLiteral("Settings");
             }
             );
@@ -136,7 +136,7 @@ using TomarUI.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                <a class=\"dropdown-item\" href=\"#\">Activity Log</a>\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "45cab8bd216220c187124c238fa0cd05aa20fe6312583", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "45cab8bd216220c187124c238fa0cd05aa20fe6312591", async() => {
                 WriteLiteral("Home Page");
             }
             );
@@ -155,7 +155,7 @@ using TomarUI.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                <div class=\"dropdown-divider\"></div>\r\n                <a class=\"dropdown-item\" onclick=\"$(\'#LogoutForm\').submit();\" style=\"cursor: pointer;\">Logout</a>\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "45cab8bd216220c187124c238fa0cd05aa20fe6314230", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "45cab8bd216220c187124c238fa0cd05aa20fe6314238", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper>();

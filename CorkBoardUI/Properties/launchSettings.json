@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "TomarUI": {
+    "CorkBoardUI": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

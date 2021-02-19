@@ -1543,21 +1543,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
-      },
-      "CorkBoardDAL/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.2",
-          "Microsoft.EntityFrameworkCore": "5.0.2",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.2"
-        },
-        "compile": {
-          "bin/placeholder/CorkBoardDAL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CorkBoardDAL.dll": {}
-        }
       }
     }
   },
@@ -5814,16 +5799,13 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
-    },
-    "CorkBoardDAL/1.0.0": {
-      "type": "project",
-      "path": "../CorkBoardDAL/CorkBoardDAL.csproj",
-      "msbuildProject": "../CorkBoardDAL/CorkBoardDAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "CorkBoardDAL >= 1.0.0"
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.2",
+      "Microsoft.EntityFrameworkCore >= 5.0.2",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.2"
     ]
   },
   "packageFolders": {
@@ -5833,11 +5815,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardService\\CorkBoardService.csproj",
-      "projectName": "CorkBoardService",
-      "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardService\\CorkBoardService.csproj",
+      "projectUniqueName": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\CorkBoardDAL.csproj",
+      "projectName": "CorkBoardDAL",
+      "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\CorkBoardDAL.csproj",
       "packagesPath": "C:\\Users\\MeteK\\.nuget\\packages\\",
-      "outputPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardService\\obj\\",
+      "outputPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5856,11 +5838,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardDAL\\CorkBoardDAL.csproj": {
-              "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardDAL\\CorkBoardDAL.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -5872,6 +5850,20 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[5.0.2, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[5.0.2, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[5.0.2, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -5887,7 +5879,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

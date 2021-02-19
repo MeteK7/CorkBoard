@@ -5817,8 +5817,8 @@
     },
     "CorkBoardDAL/1.0.0": {
       "type": "project",
-      "path": "../CorkBoardDAL/CorkBoardDAL.csproj",
-      "msbuildProject": "../CorkBoardDAL/CorkBoardDAL.csproj"
+      "path": "../TomarDAL/CorkBoardDAL.csproj",
+      "msbuildProject": "../TomarDAL/CorkBoardDAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5833,11 +5833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardService\\CorkBoardService.csproj",
+      "projectUniqueName": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarService\\CorkBoardService.csproj",
       "projectName": "CorkBoardService",
-      "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardService\\CorkBoardService.csproj",
+      "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarService\\CorkBoardService.csproj",
       "packagesPath": "C:\\Users\\MeteK\\.nuget\\packages\\",
-      "outputPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardService\\obj\\",
+      "outputPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5857,8 +5857,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardDAL\\CorkBoardDAL.csproj": {
-              "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardDAL\\CorkBoardDAL.csproj"
+            "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\CorkBoardDAL.csproj": {
+              "projectPath": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\TomarDAL\\CorkBoardDAL.csproj"
             }
           }
         }
@@ -5887,7 +5887,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

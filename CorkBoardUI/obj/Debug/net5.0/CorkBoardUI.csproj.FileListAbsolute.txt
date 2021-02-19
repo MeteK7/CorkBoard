@@ -479,9 +479,6 @@ C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\C
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.MvcApplicationPartsAssemblyInfo.cache
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.RazorAssemblyInfo.cache
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.RazorAssemblyInfo.cs
-C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.dll
-C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\ref\CorkBoardUI.dll
-C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.pdb
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\staticwebassets\CorkBoardUI.StaticWebAssets.Manifest.cache
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\staticwebassets\CorkBoardUI.StaticWebAssets.xml
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\scopedcss\bundle\CorkBoardUI.styles.css
@@ -527,6 +524,9 @@ C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\C
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.RazorTargetAssemblyInfo.cache
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.RazorTargetAssemblyInfo.cs
+C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.dll
+C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\ref\CorkBoardUI.dll
+C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.pdb
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\bin\Debug\net5.0\appsettings.Development.json
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\bin\Debug\net5.0\appsettings.json
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\bin\Debug\net5.0\CorkBoardUI.StaticWebAssets.xml
