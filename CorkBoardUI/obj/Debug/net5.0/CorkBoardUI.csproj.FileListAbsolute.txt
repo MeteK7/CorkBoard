@@ -497,7 +497,6 @@ C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\C
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Admin\EditAbout.cshtml.g.cs
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
-C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Admin\_Layout.cshtml.g.cs
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Contact\_Layout.cshtml.g.cs
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
@@ -507,7 +506,6 @@ C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\C
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Post\Create.cshtml.g.cs
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Post\Edit.cshtml.g.cs
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Post\Index.cshtml.g.cs
-C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Post\_Layout.cshtml.g.cs
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Shared\Components\AdminFooter\Default.cshtml.g.cs
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Shared\Components\AdminSideNav\Default.cshtml.g.cs
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Shared\Components\AdminTopNav\Default.cshtml.g.cs
@@ -942,3 +940,4 @@ C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\C
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.Views.pdb
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.csproj.CopyComplete
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.genruntimeconfig.cache
+C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
