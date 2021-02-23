@@ -1,8 +1,8 @@
 ﻿.div-register-inside {
-    padding-left: 2px;
-    padding-right: 2px;
-    padding-top: 6px;
-    padding-bottom: 6px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
     width: 80%;
     border-style: solid;
     border-color: springgreen;
@@ -29,8 +29,10 @@
 .img-register-logo {
     width: 10%;
     height: 10%;
-    border-radius: 200px 200px 200px 200px;
+    border-radius: 5px 5px 5px 5px;
     box-shadow: 0px 0px 18px 3px rgba(0,0,0,0.75);
+    background: rgba(217, 237, 247,0.5);
+    backdrop-filter: blur(2px); /*Blurres only the background*/
 }
 
 .div-register {
@@ -40,7 +42,7 @@
 
 .div-register-main {
     margin-top: 3%;
-    width: 40%;
+    width: 50%;
     height: 60%;
     padding-top: 6%;
     padding-bottom: 6%;
@@ -52,7 +54,8 @@
     -moz-border-radius: 14px 14px 14px 14px;
     -webkit-border-radius: 14px 14px 14px 14px;
     border: 4px outset #45e0d8;
-    background: rgba(217, 237, 247,0.4);
+    background: rgba(217, 237, 247,0.5);
+    backdrop-filter: blur(6px); /*Blurres only the background*/
 }
 
 .div-register-main:hover {
@@ -62,4 +65,13 @@
 
 .p-footer {
     color: darkgray;
+}
+
+.h1-register {
+    color: white;
+    font-family: noto;
+}
+
+.div-nopadding {
+    padding: 0 !important;
 }

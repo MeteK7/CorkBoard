@@ -21,7 +21,5 @@
   <ItemGroup>
     <ProjectReference Include="..\CorkBoardDAL\CorkBoardDAL.csproj" />
     <ProjectReference Include="..\CorkBoardService\CorkBoardService.csproj" />
-    <ProjectReference Include="..\TomarDAL\CorkBoardDAL.csproj" />
-    <ProjectReference Include="..\TomarService\CorkBoardService.csproj" />
   </ItemGroup>
 </Project>
