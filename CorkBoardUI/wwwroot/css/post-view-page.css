@@ -1,7 +1,12 @@
 ﻿body {
 }
 
-.left-side-image {
+.div-photo-post-left {
+    margin-left: 2%;
     float: left;
-    width: 25%;
+}
+
+.img-photo-post-left {
+    float: left;
+    width: 100%;
 }
