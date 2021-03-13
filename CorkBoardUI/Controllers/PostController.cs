@@ -34,6 +34,13 @@ namespace CorkBoardUI.Controllers
             return View(new CreateViewModel());
         }
 
+        [HttpPost]
+        public async Task<IActionResult> Add(CreateViewModel createViewModel) //You can name this action result as "Create" because it has post attribute so that there won't be a conflict.
+        {
+            await postBusinessManager.CreatePost(createViewModel, User);
+            return RedirectToAction("Create");
+        }
+
         public async Task<IActionResult> Edit(int? id)
         {
             var actionResult = await postBusinessManager.GetEditViewModel(id, User);
@@ -42,13 +49,6 @@ namespace CorkBoardUI.Controllers
                 return View(actionResult.Value);
 
             return actionResult.Result;
-        }
-
-        [HttpPost]
-        public async Task<IActionResult> Add(CreateViewModel createViewModel) //You can name this action result as "Create" because it has post attribute so that there won't be a conflict.
-        {
-            await postBusinessManager.CreatePost(createViewModel, User);
-            return RedirectToAction("Create");
         }
 
         [HttpPost]
