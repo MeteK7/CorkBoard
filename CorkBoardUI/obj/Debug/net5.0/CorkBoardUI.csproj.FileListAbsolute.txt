@@ -470,7 +470,6 @@ C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\T
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\TomarUI\obj\Debug\net5.0\ref\CorkBoardUI.dll
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\TomarUI\obj\Debug\net5.0\CorkBoardUI.pdb
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\TomarUI\obj\Debug\net5.0\CorkBoardUI.genruntimeconfig.cache
-C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.csprojAssemblyReference.cache
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.AssemblyInfoInputs.cache
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.AssemblyInfo.cs
@@ -1886,3 +1885,4 @@ F:\Projects\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.dll
 F:\Projects\CorkBoard\CorkBoardUI\obj\Debug\net5.0\ref\CorkBoardUI.dll
 F:\Projects\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.pdb
 F:\Projects\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.genruntimeconfig.cache
+C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardUI\obj\Debug\net5.0\CorkBoardUI.csproj.AssemblyReference.cache

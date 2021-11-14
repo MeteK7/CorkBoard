@@ -14,7 +14,6 @@ C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\C
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardDAL\bin\Debug\net5.0\CorkBoardDAL.dll
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardDAL\bin\Debug\net5.0\ref\CorkBoardDAL.dll
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardDAL\bin\Debug\net5.0\CorkBoardDAL.pdb
-C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.csprojAssemblyReference.cache
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.GeneratedMSBuildEditorConfig.editorconfig
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.AssemblyInfoInputs.cache
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.AssemblyInfo.cs
@@ -46,3 +45,4 @@ F:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.csproj.CoreComp
 F:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.dll
 F:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\ref\CorkBoardDAL.dll
 F:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.pdb
+C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.csproj.AssemblyReference.cache

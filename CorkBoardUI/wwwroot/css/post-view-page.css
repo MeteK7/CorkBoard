@@ -4,6 +4,7 @@
 .div-photo-post-left {
     margin-left: 2%;
     float: left;
+    max-width: 30%;
 }
 
 .img-photo-post-left {
