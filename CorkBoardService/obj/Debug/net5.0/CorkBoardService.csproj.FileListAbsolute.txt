@@ -28,3 +28,33 @@ C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\C
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.dll
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardService\obj\Debug\net5.0\ref\CorkBoardService.dll
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.pdb
+E:\Projects\CorkBoard\CorkBoardService\bin\Debug\net5.0\CorkBoardService.deps.json
+E:\Projects\CorkBoard\CorkBoardService\bin\Debug\net5.0\CorkBoardService.dll
+E:\Projects\CorkBoard\CorkBoardService\bin\Debug\net5.0\ref\CorkBoardService.dll
+E:\Projects\CorkBoard\CorkBoardService\bin\Debug\net5.0\CorkBoardService.pdb
+E:\Projects\CorkBoard\CorkBoardService\bin\Debug\net5.0\CorkBoardDAL.dll
+E:\Projects\CorkBoard\CorkBoardService\bin\Debug\net5.0\CorkBoardDAL.pdb
+E:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.csprojAssemblyReference.cache
+E:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.AssemblyInfoInputs.cache
+E:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.AssemblyInfo.cs
+E:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.csproj.CoreCompileInputs.cache
+E:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.csproj.CopyComplete
+E:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.dll
+E:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\ref\CorkBoardService.dll
+E:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.pdb
+F:\Projects\CorkBoard\CorkBoardService\bin\Debug\net5.0\CorkBoardService.deps.json
+F:\Projects\CorkBoard\CorkBoardService\bin\Debug\net5.0\CorkBoardService.dll
+F:\Projects\CorkBoard\CorkBoardService\bin\Debug\net5.0\ref\CorkBoardService.dll
+F:\Projects\CorkBoard\CorkBoardService\bin\Debug\net5.0\CorkBoardService.pdb
+F:\Projects\CorkBoard\CorkBoardService\bin\Debug\net5.0\CorkBoardDAL.dll
+F:\Projects\CorkBoard\CorkBoardService\bin\Debug\net5.0\CorkBoardDAL.pdb
+F:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.csprojAssemblyReference.cache
+F:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.AssemblyInfoInputs.cache
+F:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.AssemblyInfo.cs
+F:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.csproj.CoreCompileInputs.cache
+F:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.csproj.CopyComplete
+F:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.dll
+F:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\ref\CorkBoardService.dll
+F:\Projects\CorkBoard\CorkBoardService\obj\Debug\net5.0\CorkBoardService.pdb

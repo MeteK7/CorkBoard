@@ -22,3 +22,27 @@ C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\C
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.dll
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\ref\CorkBoardDAL.dll
 C:\Lessons\ASP.NET\Complete ASP.NET Core Applications\CorkBoardFiles\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.pdb
+E:\Projects\CorkBoard\CorkBoardDAL\bin\Debug\net5.0\CorkBoardDAL.deps.json
+E:\Projects\CorkBoard\CorkBoardDAL\bin\Debug\net5.0\CorkBoardDAL.dll
+E:\Projects\CorkBoard\CorkBoardDAL\bin\Debug\net5.0\ref\CorkBoardDAL.dll
+E:\Projects\CorkBoard\CorkBoardDAL\bin\Debug\net5.0\CorkBoardDAL.pdb
+E:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.csprojAssemblyReference.cache
+E:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.AssemblyInfoInputs.cache
+E:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.AssemblyInfo.cs
+E:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.csproj.CoreCompileInputs.cache
+E:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.dll
+E:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\ref\CorkBoardDAL.dll
+E:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.pdb
+F:\Projects\CorkBoard\CorkBoardDAL\bin\Debug\net5.0\CorkBoardDAL.deps.json
+F:\Projects\CorkBoard\CorkBoardDAL\bin\Debug\net5.0\CorkBoardDAL.dll
+F:\Projects\CorkBoard\CorkBoardDAL\bin\Debug\net5.0\ref\CorkBoardDAL.dll
+F:\Projects\CorkBoard\CorkBoardDAL\bin\Debug\net5.0\CorkBoardDAL.pdb
+F:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.csprojAssemblyReference.cache
+F:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.AssemblyInfoInputs.cache
+F:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.AssemblyInfo.cs
+F:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.csproj.CoreCompileInputs.cache
+F:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.dll
+F:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\ref\CorkBoardDAL.dll
+F:\Projects\CorkBoard\CorkBoardDAL\obj\Debug\net5.0\CorkBoardDAL.pdb

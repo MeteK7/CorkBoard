@@ -8,6 +8,6 @@ namespace CorkBoardUI.BusinessManagers.Interfaces
 {
     public interface IContactBusinessManager
     {
-        public string SendEmail(SendEmailViewModel sendEmailViewModel);
+        string SendEmail(SendEmailViewModel sendEmailViewModel);
     }
 }
