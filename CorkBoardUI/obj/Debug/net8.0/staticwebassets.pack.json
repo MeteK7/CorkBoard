@@ -1,0 +1,697 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\10\\HeaderImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\10\\HeaderImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\10\\LeftSideImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\10\\LeftSideImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\11\\HeaderImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\11\\HeaderImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\11\\LeftSideImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\11\\LeftSideImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\12\\HeaderImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\12\\HeaderImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\12\\LeftSideImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\12\\LeftSideImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\13\\HeaderImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\13\\HeaderImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\13\\LeftSideImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\13\\LeftSideImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\1\\HeaderImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\1\\HeaderImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\1\\LeftSideImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\1\\LeftSideImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\2\\HeaderImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\2\\HeaderImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\2\\LeftSideImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\2\\LeftSideImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\3\\HeaderImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\3\\HeaderImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\3\\LeftSideImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\3\\LeftSideImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\4\\HeaderImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\4\\HeaderImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\4\\LeftSideImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\4\\LeftSideImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\5\\HeaderImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\5\\HeaderImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\5\\LeftSideImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\5\\LeftSideImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\6\\HeaderImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\6\\HeaderImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\6\\LeftSideImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\6\\LeftSideImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\7\\HeaderImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\7\\HeaderImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\7\\LeftSideImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\7\\LeftSideImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\9\\HeaderImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\9\\HeaderImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\UserFiles\\Posts\\9\\LeftSideImage.jpg",
+      "PackagePath": "staticwebassets\\UserFiles\\Posts\\9\\LeftSideImage.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\css\\about-page.css",
+      "PackagePath": "staticwebassets\\css\\about-page.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\css\\admin-styles.css",
+      "PackagePath": "staticwebassets\\css\\admin-styles.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\css\\contact-page.css",
+      "PackagePath": "staticwebassets\\css\\contact-page.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\css\\corkboard.css",
+      "PackagePath": "staticwebassets\\css\\corkboard.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\css\\corkboard.min.css",
+      "PackagePath": "staticwebassets\\css\\corkboard.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\css\\login-page.css",
+      "PackagePath": "staticwebassets\\css\\login-page.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\css\\post-view-page.css",
+      "PackagePath": "staticwebassets\\css\\post-view-page.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\css\\register-page.css",
+      "PackagePath": "staticwebassets\\css\\register-page.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\DSC_0302.JPG",
+      "PackagePath": "staticwebassets\\img\\DSC_0302.JPG"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\abstract-blue-dotted.png",
+      "PackagePath": "staticwebassets\\img\\abstract-blue-dotted.png"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\abstract-cloud.jpg",
+      "PackagePath": "staticwebassets\\img\\abstract-cloud.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\abstract-light.png",
+      "PackagePath": "staticwebassets\\img\\abstract-light.png"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\add.png",
+      "PackagePath": "staticwebassets\\img\\add.png"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\img\\background.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\beautiful-wide-shot-ruth-glaciers-covered-snow.jpg",
+      "PackagePath": "staticwebassets\\img\\beautiful-wide-shot-ruth-glaciers-covered-snow.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\blue-1634110_1280.png",
+      "PackagePath": "staticwebassets\\img\\blue-1634110_1280.png"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\blur-city.jpg",
+      "PackagePath": "staticwebassets\\img\\blur-city.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\blurred.jpg",
+      "PackagePath": "staticwebassets\\img\\blurred.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\contact-me.jpg",
+      "PackagePath": "staticwebassets\\img\\contact-me.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\data-center-19-inch.png",
+      "PackagePath": "staticwebassets\\img\\data-center-19-inch.png"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\granite-texture.jpg",
+      "PackagePath": "staticwebassets\\img\\granite-texture.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\hexagonal-line-pattern.jpg",
+      "PackagePath": "staticwebassets\\img\\hexagonal-line-pattern.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\kardelen-logo.png",
+      "PackagePath": "staticwebassets\\img\\kardelen-logo.png"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\kardelen-white-logo.png",
+      "PackagePath": "staticwebassets\\img\\kardelen-white-logo.png"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\lines.jpg",
+      "PackagePath": "staticwebassets\\img\\lines.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\login-background.png",
+      "PackagePath": "staticwebassets\\img\\login-background.png"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\login-rounded-right.png",
+      "PackagePath": "staticwebassets\\img\\login-rounded-right.png"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\logo_pwsz_jaroslaw.png",
+      "PackagePath": "staticwebassets\\img\\logo_pwsz_jaroslaw.png"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\marble-texture-background.jpg",
+      "PackagePath": "staticwebassets\\img\\marble-texture-background.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\network-lines.jpg",
+      "PackagePath": "staticwebassets\\img\\network-lines.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\post-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\post-bg.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\post-sample-image.jpg",
+      "PackagePath": "staticwebassets\\img\\post-sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\profile_img.jpg",
+      "PackagePath": "staticwebassets\\img\\profile_img.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\register-background.jpg",
+      "PackagePath": "staticwebassets\\img\\register-background.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\robot-human.jpg",
+      "PackagePath": "staticwebassets\\img\\robot-human.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\snowy-hill.jpg",
+      "PackagePath": "staticwebassets\\img\\snowy-hill.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\telephone.jpg",
+      "PackagePath": "staticwebassets\\img\\telephone.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\temsa-logo.png",
+      "PackagePath": "staticwebassets\\img\\temsa-logo.png"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\toros-university-logo.png",
+      "PackagePath": "staticwebassets\\img\\toros-university-logo.png"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\view.jpg",
+      "PackagePath": "staticwebassets\\img\\view.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\vintage-typewriter-wooden-table.jpg",
+      "PackagePath": "staticwebassets\\img\\vintage-typewriter-wooden-table.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\wavy.jpg",
+      "PackagePath": "staticwebassets\\img\\wavy.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\img\\white-hexagonal-line-pattern.jpg",
+      "PackagePath": "staticwebassets\\img\\white-hexagonal-line-pattern.jpg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\js\\about-page.js",
+      "PackagePath": "staticwebassets\\js\\about-page.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\js\\admin-scripts.js",
+      "PackagePath": "staticwebassets\\js\\admin-scripts.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\js\\contact_me.js",
+      "PackagePath": "staticwebassets\\js\\contact_me.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\js\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\js\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\js\\tomar.js",
+      "PackagePath": "staticwebassets\\js\\tomar.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\js\\tomar.min.js",
+      "PackagePath": "staticwebassets\\js\\tomar.min.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-wysihtml5.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-wysihtml5.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\js\\bootstrap-wysihtml5.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap-wysihtml5.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Lessons\\ASP.NET\\Complete ASP.NET Core Applications\\CorkBoardFiles\\CorkBoard\\CorkBoardUI\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CorkBoardUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CorkBoardUI.props",
+      "PackagePath": "build\\CorkBoardUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CorkBoardUI.props",
+      "PackagePath": "buildMultiTargeting\\CorkBoardUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CorkBoardUI.props",
+      "PackagePath": "buildTransitive\\CorkBoardUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

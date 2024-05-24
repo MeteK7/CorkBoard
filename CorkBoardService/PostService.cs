@@ -27,7 +27,6 @@ namespace CorkBoardService
                     .ThenInclude(comment => comment.Author)
                 .Include(post => post.Comments)
                     .ThenInclude(comment => comment.Comments)
-                        .ThenInclude(reply => reply.Parent)
                 .FirstOrDefault(post => post.Id == postId);
         }
 
