@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CorkBoardUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a19601cdab926537fc71f60a12e4330df187c897")]
 [assembly: System.Reflection.AssemblyProductAttribute("CorkBoardUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CorkBoardUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
